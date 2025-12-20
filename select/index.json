@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Love Love 妄想パレード",
+  "base_artist": "花園羽香里 (CV.本渡 楓)",
+  "createdAt": "2025-12-20T09:26:40.203521Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Love Love Love",
+      "artist": "The Mountain Goats",
+      "has_synced": true,
+      "path": "select/01_Love_Love_Love_The_Mountain_Goats.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Love Love Love",
+      "artist": "Jean-Michel Jarre",
+      "has_synced": false,
+      "path": "select/02_Love_Love_Love_Jean-Michel_Jarre.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "LOVE LOVE LOVE -ENGLISH VERSION-",
+      "artist": "Hayley Westenra",
+      "has_synced": true,
+      "path": "select/03_LOVE_LOVE_LOVE_-ENGLISH_VERSION-_Hayley_Westenra.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Love, Love, Love (Everyone)",
+      "artist": "AKRON/FAMILY",
+      "has_synced": true,
+      "path": "select/04_Love,_Love,_Love_(Everyone)_AKRON_FAMILY.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Love Love Mode",
+      "artist": "Dimitri from Paris",
+      "has_synced": false,
+      "path": "select/05_Love_Love_Mode_Dimitri_from_Paris.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Love Loves to Love Love",
+      "artist": "Lulu",
+      "has_synced": false,
+      "path": "select/06_Love_Loves_to_Love_Love_Lulu.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Love, Love, Love",
+      "artist": "Glass Candy",
+      "has_synced": false,
+      "path": "select/07_Love,_Love,_Love_Glass_Candy.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Love Love, Kiss Kiss (Live)",
+      "artist": "Alkaline Trio",
+      "has_synced": false,
+      "path": "select/08_Love_Love,_Kiss_Kiss_(Live)_Alkaline_Trio.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Love Love Love (Extended Version)",
+      "artist": "Agnes",
+      "has_synced": false,
+      "path": "select/09_Love_Love_Love_(Extended_Version)_Agnes.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Love Love",
+      "artist": "Amy MacDonald",
+      "has_synced": false,
+      "path": "select/10_Love_Love_Amy_MacDonald.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Love Love Love",
+      "artist": "Unwritten Law",
+      "has_synced": true,
+      "path": "select/11_Love_Love_Love_Unwritten_Law.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Love, Love, Love",
+      "artist": "Lenny Kravitz",
+      "has_synced": true,
+      "path": "select/12_Love,_Love,_Love_Lenny_Kravitz.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Love Love Love",
+      "artist": "Lenny Kravitz",
+      "has_synced": true,
+      "path": "select/13_Love_Love_Love_Lenny_Kravitz.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Love Love Love",
+      "artist": "Of Monsters and Men",
+      "has_synced": true,
+      "path": "select/14_Love_Love_Love_Of_Monsters_and_Men.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Power of Love/Love Power",
+      "artist": "Luther Vandross",
+      "has_synced": true,
+      "path": "select/15_Power_of_Love_Love_Power_Luther_Vandross.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Give Me Your Love (Love Song)",
+      "artist": "Curtis Mayfield",
+      "has_synced": true,
+      "path": "select/16_Give_Me_Your_Love_(Love_Song)_Curtis_Mayfield.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Sept 16 Triple X Love! Love!",
+      "artist": "The Mountain Goats",
+      "has_synced": true,
+      "path": "select/17_Sept_16_Triple_X_Love!_Love!_The_Mountain_Goats.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Love Love 妄想パレード",
+      "artist": "花園羽香里 (CV.本渡 楓)",
+      "has_synced": false,
+      "path": "select/pl_01_Love_Love_妄想パレード_花園羽香里_(CV.本渡_楓).txt"
+    }
+  ]
+}
